@@ -32,9 +32,11 @@ img {
 }
 
 a {
-    display: block;
+    text-decoration: none;
+    cursor: pointer;
+    color: aquamarine;
+    margin-right: 8px;
 }
-
 a:hover {
     color: aqua;
 }
